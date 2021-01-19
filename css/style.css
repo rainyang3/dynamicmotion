@@ -54,11 +54,13 @@
 
 #scale:hover{
     transform: scale(1.9);
-    color: thistle;
+    /* color: thistle; */
+    text-shadow: whitesmoke 3px 3px 10px;
 }
 #skew:hover{
     transform: skewx(180deg);
-    color: yellowgreen;
+    text-shadow: whitesmoke 3px 3px 10px;
+    /* color: yellowgreen; */
     /* background-color:red; */
 }
 
